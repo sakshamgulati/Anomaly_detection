@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 class feature_engg_class():
     def __init__(self,config_file="./conf/smartprice.yaml"):
         self.logger = logging.getLogger(__name__)
-        self.config = confuse.Configuration("FreshPrice", __name__)
+        self.config = confuse.Configuration("SmartPrice", __name__)
         self.config.set_file(config_file)
         self.DRIVER_PATH = self.config["DRIVER_PATH"].get(str)
 
