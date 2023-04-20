@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: SmartPrice
+Version: 0.0.1
+Summary: This app is used to showcase the real true price for a used car and can allow users to avoid getting ripped off
+Home-page: 
+Author: SakshamGulati
+Project-URL: Bug Tracker, 
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+This is a testament for CI-CD best practices
+More updates to follow...

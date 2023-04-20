@@ -1,0 +1,5 @@
+python-dotenv
+pandas
+numpy
+confuse
+scikit-learn
